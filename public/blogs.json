@@ -1,53 +1,53 @@
 [
     {
-      "ID": "12345",
-      "Cover": "https://i.ibb.co/VmgkGT3/r4.webp",
-      "Title": "The Secret Garden",
-      "Author": "Jane Doe",
-      "Author_Image": "https://i.ibb.co/DrnZvx9/a-1.jpg",
-      "Posted_Date": "September 12, 2023",
-      "Reading_Time": "2 hours",
-      "Hashtags": ["#fiction", "#classics", "#gardens"]
+      "id": "12345",
+      "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
+      "title": "The Secret Garden",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/DrnZvx9/a-1.jpg",
+      "posted_date": "September 12, 2023",
+      "reading_time": 55,
+      "hashtags": ["#fiction", "#classics", "#gardens"]
     },
     {
-      "ID": "67890",
-      "Cover": "https://i.ibb.co/VmgkGT3/r4.webp",
-      "Title": "Lost in Time",
-      "Author": "John Smith",
-      "Author_Image": "https://i.ibb.co/c84LWd8/a-2.jpg",
-      "Posted_Date": "September 10, 2023",
-      "Reading_Time": "3.5 hours",
-      "Hashtags": ["#sciencefiction", "#timetravel", "#adventure"]
+      "id": "67890",
+      "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
+      "title": "Lost in Time",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/c84LWd8/a-2.jpg",
+      "posted_date": "September 10, 2023",
+      "reading_time": 20,
+      "hashtags": ["#sciencefiction", "#timetravel", "#adventure"]
     },
     {
-      "ID": "54321",
-      "Cover": "https://i.ibb.co/VmgkGT3/r4.webp",
-      "Title": "Mystery Mansion",
-      "Author": "Emily Johnson",
-      "Author_Image": "https://i.ibb.co/DrnZvx9/a-1.jpg",
-      "Posted_Date": "September 8, 2023",
-      "Reading_Time": "2.5 hours",
-      "Hashtags": ["#mystery", "#thriller", "#hauntedhouse"]
+      "id": "54321",
+      "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
+      "title": "Mystery Mansion",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/DrnZvx9/a-1.jpg",
+      "posted_date": "September 8, 2023",
+      "reading_time": 60,
+      "hashtags": ["#mystery", "#thriller", "#hauntedhouse"]
     },
     {
-      "ID": "98765",
-      "Cover": "https://i.ibb.co/VmgkGT3/r4.webp",
-      "Title": "Cooking Delights",
-      "Author": "Michael Wilson",
-      "Author_Image": "https://i.ibb.co/c84LWd8/a-2.jpg",
-      "Posted_Date": "September 6, 2023",
-      "Reading_Time": "1.5 hours",
-      "Hashtags": ["#cooking", "#recipes", "#foodie"]
+      "id": "98765",
+      "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
+      "title": "Cooking Delights",
+      "author": "Michael Wilson",
+      "author_img": "https://i.ibb.co/c84LWd8/a-2.jpg",
+      "posted_date": "September 6, 2023",
+      "reading_time": 20,
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
     },
     {
-      "ID": "24680",
-      "Cover": "https://i.ibb.co/VmgkGT3/r4.webp",
-      "Title": "The Art of Painting",
-      "Author": "Sarah Turner",
-      "Author_Image": "https://i.ibb.co/DrnZvx9/a-1.jpg",
-      "Posted_Date": "September 4, 2023",
-      "Reading_Time": "2 hours",
-      "Hashtags": ["#art", "#painting", "#creativity"]
+      "id": "24680",
+      "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
+      "title": "The Art of Painting",
+      "author": "Sarah Turner",
+      "author_img": "https://i.ibb.co/DrnZvx9/a-1.jpg",
+      "posted_date": "September 4, 2023",
+      "reading_time": 34,
+      "hashtags": ["#art", "#painting", "#creativity"]
     }
   ]
   
