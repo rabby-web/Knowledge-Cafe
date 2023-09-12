@@ -1,6 +1,6 @@
 [
     {
-      "id": "12345",
+      "id": "1",
       "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
       "title": "The Secret Garden",
       "author": "Jane Doe",
@@ -10,7 +10,7 @@
       "hashtags": ["#fiction", "#classics", "#gardens"]
     },
     {
-      "id": "67890",
+      "id": "2",
       "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
       "title": "Lost in Time",
       "author": "John Smith",
@@ -20,7 +20,7 @@
       "hashtags": ["#sciencefiction", "#timetravel", "#adventure"]
     },
     {
-      "id": "54321",
+      "id": "3",
       "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
       "title": "Mystery Mansion",
       "author": "Emily Johnson",
@@ -30,7 +30,7 @@
       "hashtags": ["#mystery", "#thriller", "#hauntedhouse"]
     },
     {
-      "id": "98765",
+      "id": "4",
       "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
       "title": "Cooking Delights",
       "author": "Michael Wilson",
@@ -40,7 +40,7 @@
       "hashtags": ["#cooking", "#recipes", "#foodie"]
     },
     {
-      "id": "24680",
+      "id": "5",
       "cover": "https://i.ibb.co/VmgkGT3/r4.webp",
       "title": "The Art of Painting",
       "author": "Sarah Turner",
